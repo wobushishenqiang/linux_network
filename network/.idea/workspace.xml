@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e60f64f-a808-462f-8f8e-6c574e194ee6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j0gXem9isHGI7SMSnaeRpV01xm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chat" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e60f64f-a808-462f-8f8e-6c574e194ee6" name="Default Changelist" comment="" />
+      <created>1602946465415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602946465415</updated>
+      <workItem from="1602946468926" duration="371000" />
+      <workItem from="1602947067463" duration="14000" />
+      <workItem from="1602947208435" duration="1812000" />
+      <workItem from="1602949224479" duration="12238000" />
+      <workItem from="1603128938624" duration="14559000" />
+      <workItem from="1603281688468" duration="3506000" />
+      <workItem from="1603291475252" duration="6319000" />
+      <workItem from="1603355461412" duration="9153000" />
+      <workItem from="1603807043099" duration="28000" />
+      <workItem from="1603808110237" duration="54000" />
+      <workItem from="1603808215592" duration="666000" />
+      <workItem from="1603833667081" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="353" width="644" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603283777231">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="669" y="353" width="644" height="408" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1603283777231" />
+    <state x="778" y="310" width="426" height="493" key="FileChooserDialogImpl" timestamp="1603808232116">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="778" y="310" width="426" height="493" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1603808232116" />
+    <state x="573" y="198" width="1039" height="737" key="SettingsEditor" timestamp="1602949078746">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="573" y="198" width="1039" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1602949078746" />
+    <state x="990" y="242" width="916" height="629" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603186738824">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="990" y="242" width="916" height="629" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1603186738824" />
+    <state x="1121" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1603292566359">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1121" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1603292566359" />
+  </component>
+</project>
